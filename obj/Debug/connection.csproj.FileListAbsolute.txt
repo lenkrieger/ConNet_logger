@@ -1,0 +1,8 @@
+C:\Users\Sviatoslav\source\repos\connection\connection\bin\Debug\connection.exe.config
+C:\Users\Sviatoslav\source\repos\connection\connection\bin\Debug\connection.exe
+C:\Users\Sviatoslav\source\repos\connection\connection\bin\Debug\connection.pdb
+C:\Users\Sviatoslav\source\repos\connection\connection\obj\Debug\connection.csproj.AssemblyReference.cache
+C:\Users\Sviatoslav\source\repos\connection\connection\obj\Debug\connection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sviatoslav\source\repos\connection\connection\obj\Debug\connection.csproj.CoreCompileInputs.cache
+C:\Users\Sviatoslav\source\repos\connection\connection\obj\Debug\connection.exe
+C:\Users\Sviatoslav\source\repos\connection\connection\obj\Debug\connection.pdb
